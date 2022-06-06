@@ -1,4 +1,4 @@
-#login to Jenkins
+#log in to Server, install jenkins and Configured job through jenkins
 
 sudo apt-get update && apt install git wget mvn docker.io -y
 
